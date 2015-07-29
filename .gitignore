@@ -1,5 +1,5 @@
 *.bak
 *.autosave.map
 *~
-.directory
+.*
 
