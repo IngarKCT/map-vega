@@ -1,0 +1,8 @@
+{
+	backgroundColor 0.0 0.0 0.0 0.333
+
+	zone {
+		bounds 0 0 0 0 0 0
+		image "minimaps/vega" -1600.000000 -3072.000000 4544.000000 3072.000000
+	}
+}
